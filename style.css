@@ -1,0 +1,29 @@
+#search {
+  height: 2rem;
+  border: 2px solid rgb(102, 202, 169);
+  background: rgb(245, 245, 245);
+  width: 10rem;
+  color: rgb(102, 202, 169);
+  border-radius: 25px;
+}
+
+#plus {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  background:rgb(102, 202, 169);
+  font-size: 2rem;
+  color: white;
+
+}
+
+#create {
+  width: 13rem;
+  height: 2.5rem;
+  background-color: rgb(67, 94, 247);
+  color: #fff;
+  font-family: 'monospace';
+  font-size: 20px;
+  font-weight: light;
+  box-shadow: 4px 5px black;
+}
